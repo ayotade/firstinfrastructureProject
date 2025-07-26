@@ -56,3 +56,4 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+Welcome to my first cdk Project
